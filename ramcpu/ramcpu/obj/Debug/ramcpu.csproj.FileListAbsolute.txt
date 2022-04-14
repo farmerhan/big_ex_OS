@@ -1,0 +1,14 @@
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\ramcpu.exe.config
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\ramcpu.exe
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\ramcpu.pdb
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\MetroFramework.Design.dll
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\MetroFramework.dll
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.csproj.AssemblyReference.cache
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.Form1.resources
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.Properties.Resources.resources
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.csproj.GenerateResource.cache
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.csproj.CoreCompileInputs.cache
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.csproj.CopyComplete
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.exe
+C:\Users\Pham Huyen\source\repos\ramcpu\ramcpu\obj\Debug\ramcpu.pdb

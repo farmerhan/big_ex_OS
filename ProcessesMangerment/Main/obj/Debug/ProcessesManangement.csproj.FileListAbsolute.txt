@@ -20,3 +20,13 @@ C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập
 C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
 C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
 C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe.config
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.pdb
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Form1.resources
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Properties.Resources.resources
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb

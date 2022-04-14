@@ -48,5 +48,10 @@ namespace ramcpu
             chart1.Series["CPU"].Points.AddY(fcpu);
             chart1.Series["RAM"].Points.AddY(fram);
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

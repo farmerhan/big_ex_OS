@@ -34,6 +34,10 @@ namespace ProcessesManangement
             renderProcessesOnListView();
             // Vũ
 
+            //Huyền
+            // Khởi tạo hàm thời gian
+            timer.Start();
+            //Huyền
         }
 
         /*
@@ -172,9 +176,88 @@ namespace ProcessesManangement
         }
 
         /*
+         ====================================================================
+         ==============================Huyền=================================
+         */
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+           
+        }
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            // Khởi tạo biến lưu hiệu năng của CPU và RAM gán bằng giá trị của thanh tiến trình tương ứng
+            float fcpu = pCPU.NextValue();
+            float fram = pRAM.NextValue();
+            //gán giá trị của thanh tiến trình bằng gtri int của biến tương ứng
+            progressBarcpu.Value = (int)fcpu;
+            progressBarram.Value = (int)fram;
+            //gán giá trị tương ứng bằng kiểu chuỗi của 2 biến fcpu và fram
+            lbcpu.Text = string.Format("{0:0.00}%", fcpu);
+            lbram.Text = string.Format("{0:0.00}%", fram);
+            //lấy giá trị của 2 biến fcpu và fram để vẽ biểu đồ chart1 với các đường tương ứng
+            chart1.Series["CPU"].Points.AddY(fcpu);
+            chart1.Series["RAM"].Points.AddY(fram);
+        }
+
+        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView_showProcs_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+       
+
+        private void progressBarcpu_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbcpu_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void progressBarram_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbram_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        /*
         ==========================================================================================
                                                 Phần xử lý của Vũ 
         ==========================================================================================
         */
+
+       
+
     }
 }

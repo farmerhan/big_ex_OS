@@ -286,11 +286,11 @@ namespace ProcessesManangement
                                                Phần xử lý của Duyên
        ==========================================================================================
        */
-       /* private void endTaskToolStripMenuItem_Click(object sender, EventArgs e)
+       private void endTaskToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (listView_showProcs.SelectedItems.Count > 0)
                 processList[listView_showProcs.SelectedIndices[0]].Kill();
         }
-       */
+      
     }
 }

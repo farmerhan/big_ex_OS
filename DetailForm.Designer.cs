@@ -87,7 +87,7 @@ namespace ProcessesManangement
             this.Controls.Add(this.btn_Close);
             this.Controls.Add(this.splitContainer1);
             this.Name = "DetailForm";
-            this.Text = "Form2";
+            this.Text = "Properties";
             this.Load += new System.EventHandler(this.DetailForm_Load);
             this.splitContainer1.Panel1.ResumeLayout(false);
             this.splitContainer1.Panel2.ResumeLayout(false);

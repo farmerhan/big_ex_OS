@@ -41,3 +41,15 @@ D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-
 D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
 D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
 D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe.config
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.pdb
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.SuggestedBindingRedirects.cache
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.DetailForm.resources
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Form1.resources
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Properties.Resources.resources
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
+E:\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb

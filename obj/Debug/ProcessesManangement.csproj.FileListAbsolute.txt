@@ -1,0 +1,43 @@
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\bin\Debug\ProcessesManangement.exe.config
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\bin\Debug\ProcessesManangement.exe
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\bin\Debug\ProcessesManangement.pdb
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.csproj.SuggestedBindingRedirects.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.Form1.resources
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.Properties.Resources.resources
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.exe
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\ProcessesManangement\obj\Debug\ProcessesManangement.pdb
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe.config
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.pdb
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.SuggestedBindingRedirects.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Form1.resources
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Properties.Resources.resources
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
+C:\work_area\TLU_subjects\Năm 3\Kì 2\Hệ điều hành\Bài tập lớn lập trình API window\Quản lý bài tập lớn\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe.config
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.pdb
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Form1.resources
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Properties.Resources.resources
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
+D:\Document online in school\GD3_K2_Y3\Hệ điều hành\BTL\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe.config
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.exe
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\bin\Debug\ProcessesManangement.pdb
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.AssemblyReference.cache
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.DetailForm.resources
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Form1.resources
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.Properties.Resources.resources
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.GenerateResource.cache
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.csproj.CoreCompileInputs.cache
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.exe
+D:\Document\Hệ điều hành\B-i-t-p-l-n-H-i-u-H-nh-Custom-Task-Manager-using-Windowform-C-\ProcessesMangerment\Main\obj\Debug\ProcessesManangement.pdb

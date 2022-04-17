@@ -288,6 +288,7 @@ namespace ProcessesManangement
        */
        private void endTaskToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            processList = Process.GetProcesses();
             if (listView_showProcs.SelectedItems.Count > 0)
                 processList[listView_showProcs.SelectedIndices[0]].Kill();
         }
